@@ -1,0 +1,7 @@
+langfuse==3.0.0
+langchain
+langchain-community
+openai
+python-dotenv
+ipykernel
+jupyterlab
